@@ -1,7 +1,7 @@
 {
   "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "Week 14 Burger App",
+  "description": "Week 15 Sequelized Burger App",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,7 @@
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.7",
-    "mysql": "^2.12.0"
+    "mysql": "^2.12.0",
+    "sequelize": "^4.38.0"
   }
 }
